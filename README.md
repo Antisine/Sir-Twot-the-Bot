@@ -10,3 +10,4 @@ PATH: Put the path to your Selenium webdriver
 
 https://youtu.be/RfFrC8jYC9E 
 
+Disclaimer: All pictures, jokes, facts, quotes, and news articles were created and owned by their respective owners. 
