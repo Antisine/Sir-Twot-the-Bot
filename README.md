@@ -2,7 +2,7 @@
 
 Username: Input your Twitter account username
 
-Password: Imput your Twitter account password
+Password: Input your Twitter account password
 
 Interval: Input the desired interval (system is in minutes)
 
